@@ -20,6 +20,10 @@ Z. Shamsi, A. Nandwani, D. Leonard and D. Loguinov, "Hershel: Single-Packet OS F
 		keywords = {internet measurement, os classification, device fingerprinting},
  	} 
 
+[ACM Portal](http://dl.acm.org/citation.cfm?id=2591972&CFID=966156579&CFTOKEN=39308219) 
+
+[Direct Paper Link](http://irl.cs.tamu.edu/people/zain/papers/sigmetrics2014.pdf)
+
 ### Journal
 Z. Shamsi, A. Nandwani, D. Leonard, and D. Loguinov, "Hershel: Single-Packet OS Fingerprinting,"  IEEE/ACM Transactions on Networking, vol. 24, no. 4, August 2016.
 	
@@ -35,6 +39,10 @@ Z. Shamsi, A. Nandwani, D. Leonard, and D. Loguinov, "Hershel: Single-Packet OS 
 		doi={10.1109/TNET.2015.2447492}, 
 		ISSN={1063-6692}, 	
 	}
+
+[IEEE Xplore](http://ieeexplore.ieee.org/document/7150435/) 
+
+[Direct Paper Link](http://irl.cs.tamu.edu/people/zain/papers/ton2016.pdf)
 
 # Files
 
