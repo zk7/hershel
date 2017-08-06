@@ -1,6 +1,6 @@
 # LICENSE
 
-Copyright © 2014-2015 IRL at Texas A&M University (http://irl.cse.tamu.edu) All rights reserved.
+Copyright © 2014 IRL at Texas A&M University (http://irl.cse.tamu.edu) All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
