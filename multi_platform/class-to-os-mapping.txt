@@ -1,0 +1,116 @@
+2,Windows 2008 SP1/SP2/R2
+3,Windows 98
+4,Microsoft_Server_2003_Web_Edition
+5,Microsoft_Server_2000 (Split from 4)
+6,Windows_Server_2000_SP4/Microsoft_Server_2003/Windows_XP_2002_sp3/Windows_XP_Sp3
+8,Microsoft_Server_2003/Windows_Server_2000/Windows_XP
+10,Windows_NT 4.0
+11,Windows_2000_Server/Windows_XP/Windows_Server_2003
+12,Windows_2003_Server(Citrix_Metaframe_Presentation_Server)
+14,Windows_Server_2003 SP1 SP2
+15,Windows_Server_2003_R2
+16,Microsoft_2000_Server_NT(RDP)/(Windows_XP/Windows_2003(China))
+17,FreeBSD_8.0FreeBSD_7.3
+18,FreeBSD_4.8
+19,Sun_OS_5.10
+20,Sun_OS_5.8
+21,Solaris_9
+22,NetBSD_4.0.01/NetBSD3.1/NetBSD_5.0.2/Ricoh Aficio MP C6000/Codian IP VCR/Codian IP VCR/Ricoh Aficio MP 4000/Ricoh MP C7500/Ricoh Aficio MP C5000
+23,Linux_2.4.x/2.6.x/Mikrotik Router OS
+24,Liniux 2.0.35/Linux_2.0.X
+25,Linux 2.0.X/Axis_Embedded
+26,Linux_2.2.14/Cyclade_Embedded
+27,Linux_2.6.12/Linux_2.4.20
+28,Linux_2.2.18/Room_Wizard(Telnet)
+29,Linux 2.6.x/2.4.x/Avocent-KVM-Switch
+30,Linux 2.6.x/2.4.x/Dell Laser 1720 dn/Dell Laser 1720 dn/Lexmark C532/Lexmark E250dn/Dell Laser 5210n 
+31,Linux_2.4.x/Linux_2.6.x|Lexmark_Embedded|Dell_Embedded|Lexmark_t632Lexmark E240n|Dell Laser Printer 1710n|Dell Laser Printer 1710n|Dell Laser Printer W5300|Dell Laser Printer 1710n
+32,Linux 2.6.24/AkamaiGHost
+33,OpenBSD_4.6/OpenBSD4.2/Ricoh Aficio MP 5000/Ricoh Aficio MP C2500/Ricoh Aficio MP 5500 
+34,OpenBSD_3.X/Ricoh_Aficio_3245C/RicohAficio_3260c/Ricoh_2051
+35,F5-Big-IP
+36,Mac_OS_10.5.x/Mac10.6.X
+37,MacOS10.4.x
+38,MacOS10.1.x/MacOS10.2.x/10.3.x
+39,AIX
+40,AIX_Version_5.3
+41,SGI_IRIX_6.X
+42,SGI_IRIX_6.X
+43,IBM_OS/2
+44,VxWorks_5.4.2|Xerox_Embedded/Xerox_phaser_7760
+45,VxWorks|Polycom_Embedded_OS|Polycon_VSX_8000
+46,HP_embedded/HP Laserjet 2550/HP Laserjet 4700/HP Color Laserjet 4600/HP Laserjet 9000/HP Laserjet 2430/HP Laserjet 4350/HP Digital Sender 9100C/HP Laserjet 1500/HP Designjet 500/HP Color Laserjet 4650/HP Laserjet 1320/HP Color Laserjet 8550
+47,HP_JD_Embedded/HP Color LJ 8500 J7934G/HP LJ 8150/HP LJ 9000/HP DesignJet 800PS (C7780C)/HP LJ 220 J7934G/HP LJ 4650 
+48,VxWoks|Dell_Powervault
+49,Xerox_Embedded|Xerox_3545
+50,Cisco_IOS_9.X/Catalyst_1900(Possibly Based on Linux 2.2.x)
+51,Cisco_IOS_12.X
+53,Cisco_IOS_11.X
+54,Novell Netware Open Enterprise Server 2 Support Pack 1
+56,Polycon_Embedded|Polycom_VSX_7000/Seimiens_Speedstream_5200/IMSE_Webmaster_Pro (99% Based on VxWorks)
+57,VxWorks|Canon_Embedded|Procurve_Embedded|Procurve Switch 2900-48G|Canon ir5050|Canon c4080|AMX Netlinx Embedded|Canon ir3035|Canon ir5055|Canon irC51585|Xerox Home Phaser 15860|Xerox Work AMX Netlinx Embedded
+58,VxWorks|OKI_Embedded|oki_C5500|Xerox WorkCenter7232|Dell3130Cn|A80Color Laser Printer|Canon ir3025|Canon irc
+59,VxWorks|Fabric OS 3.X ||Extreme_Networks_Embedded/Dell Laser Printer 3100cn/Dell Laser Printer 5100cn/Brocade Switch SW3200A
+60,Dell Color Laser 3110cn|Dell Color Laser 1320c/Dell Color Laser 5110cn
+61,HP_Embedded|Procurve_1800-24G_J90_28B
+62,HP_Embedded|HP_Officejet_Pro_K850
+63,HP_Embedded|HP_Officejet_7400|OfficeJet_7200
+64,HP_Embedded/Dell_Embedded/Samsung_Embedded/HP_J4121A_400M/Dell Laser Printer MFP 1815 Dn/Samsung_ML-2550(pSOSystem)
+65,HP_Embedded/HP Laserjet 4050/HP Laserjt 2100/HP Laserjet 3380/HP Laserjet 4000/HP Color Laserjet 4500/HP Laserjet 2100
+66,HP_Embedded/HP_Laserjet_3600
+67,HP_Embedded//HP Laserjet P4515 Printerr/HP Color Laserjet CP3505 Printer/HP 9200C Digitial Suite/HP laserjet 9050n/HP laserjet CP 3525 Printer/HP Laserjet 4350 Printer/HP Lasejet P4014 Printer/HP Laserjet P3005 Printer/HP Laserjet
+68,HP-Proloant-IL02 
+69,HP_JD_Embedded/Brother_Embedded/ HP Laserjet P2105/HP Laserjet P2105HP Laerjet 2600n/HP Color Laserjet CP1518ni/HP Laserjet 1022n/HP Color Laserjet CM1312nfi MP/HP Laserjet 1505n/HP Laserjet 1022n/HP Laserjet 1522nf MP/Brother HL-5250DN 
+70,HP_Embedded/HP Color LJ 2605dn
+71,HP_Embedded/HP Color LJ 2605dTn/HP Color Laserjet 2605dtn/HP LJ 3052/HP LJ 3055/HP Color LJ 2822
+72,Sharp_Embedded|Sharp_ARM280U
+73,VxWorks|xerox_Embedded|Tektronix_Phaser_750_Embedded
+74,Lantronix_Embedded(Evolution OS)|AEM_100 (Sends FinACK)
+75,Spacesaver_Powerlink_Embedded
+76,Extron_MLC_226_IP_Embedded
+77,Schnider_PowerLogic_5.0(Running Something)
+78,NetAPP 7.2.6.1
+79,APC_Embedded/APC_AOS
+80,Liberat_Opencomms_Web_Card
+81,Key_Systems_Secure_Key_Dispenser_Embedded
+82,Cisco_BR500E_Embedded
+83,Kyocera_Embedded|Canon_Embedded|Canon_ir1023|Kyocera_FS-4000dn
+84,JetStor_Sata_412s_Raid_Controler
+85,Lexmark_Marknet_Embedded/Nera_Satlink
+86,Axis_Embedded|Axis_200+*
+87,Schnider_TAC_Embedded
+88,Nucleus_OS|Crestron_OS
+89,HP_Embedded/HP Strage Work MSL 2024 Tape library
+90,Sipura_Embedded
+91,Nucleus_OS|Tandberg_Embedded
+92,Dedicated_Micros_Embedded
+93,Dedicated_Micros_Embedded
+94,Juniper_Embedded/NetScreen_ScreenOS
+95,Zyxel_ZyNOS/Zyxell_ZyWall35/ZyWall5 
+96,Huawei_Embedded(Telnet)
+97,Huawei_Embedded(Telnet)/Hagzou_Embedded/3Com_Embedded
+98,TP_link Embedded/Embedded_Linux
+99,ZyxeL_NTOS based on Kdax_AMX_RTOS(Dlink_ZyXEL Prestige 310, Netgear RT311,D-Link DI-106)/NexStor NAS Device
+100,Allied_Telesyn_AR405
+101,HP 4000MProCurve Switch / Cisco Adaptive Security Appliance
+102,DES-3326S (M1460)/DGS-3324SR(M1444)
+103,Seimens_Embedded(Seimens_Speedstream_Gateway 4205_6205)(VxWorks)
+104,(ADSL Routers)(TP-Link-8820A(ADSL-Routers)/IBall-LR611A/Huawei_SmartAX)
+105,Linux_EmbeddedHuawei_SmartAX
+106,Linux_Embedded(Routers)
+107,Linux_(Red_Hat)/Linux_Embedded(MontaVista Linux)
+108,Linux_2.6.x|Debian|CentOS|SonicWall OS
+109,Windows_Vista/7
+110,Microsoft_XP_2002_SP1/(2003/2000)
+111,Dlink_Embedded (Split from 102)
+114,Windows_Server_2000/2003
+115,FreeBSD_6.4
+116,FreeBSD_5.x
+117,VxWorks
+118,Schnider_PowerLogic_5.0
+119,ZyxeL_NTOS based on Kdax_AMX_RTOS(Dlink_ZyXEL Prestige 310, Netgear RT311,D-Link DI-106)
+120,Embedded_Linux/TP_Link_Embedded
+121,Digital_Unix
+122,Cable Modem Router(Scientific Atlanta)
+123,ADSL Router (Dlink 265l)
+124,Cisco IOS 12.x

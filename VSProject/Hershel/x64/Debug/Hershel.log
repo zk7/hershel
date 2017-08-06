@@ -1,0 +1,20 @@
+﻿  hershel.cpp
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(88): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(89): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(97): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(115): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(156): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(302): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(302): note: consider using '%zd' in the format string
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(329): warning C4477: 'sscanf_s' : format string '%[^\n]' requires an argument of type 'int', but variadic argument 3 has type 'unsigned __int64'
+  c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(329): note: this argument is used as a buffer size
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(335): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(335): note: consider using '%zd' in the format string
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(359): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(397): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(397): note: consider using '%zd' in the format string
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(410): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(500): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(564): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\zain\documents\visual studio 2015\projects\hershel\hershel\hershel.cpp(575): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hershel.vcxproj -> C:\Users\zain\Documents\Visual Studio 2015\Projects\Hershel\x64\Debug\Hershel.exe

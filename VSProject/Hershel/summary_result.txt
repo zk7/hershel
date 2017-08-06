@@ -1,0 +1,15 @@
+Class,Label,Count 
+5, Microsoft_Server_2000 (Split from 4), 1
+6, Windows_Server_2000_SP4/Microsoft_Server_2003/Windows_XP_2002_sp3/Windows_XP_Sp3, 2
+11, Windows_2000_Server/Windows_XP/Windows_Server_2003, 1
+27, Linux_2.6.12/Linux_2.4.20, 4
+29, Linux 2.6.x/2.4.x/Avocent-KVM-Switch, 1
+35, F5-Big-IP, 1
+44, VxWorks_5.4.2|Xerox_Embedded/Xerox_phaser_7760, 3
+51, Cisco_IOS_12.X, 1
+57, VxWorks|Canon_Embedded|Procurve_Embedded|Procurve Switch 2900-48G|Canon ir5050|Canon c4080|AMX Netlinx Embedded|Canon ir3035|Canon ir5055|Canon irC51585|Xerox Home Phaser 15860|Xerox Work AMX Netlinx Embedded, 2
+58, VxWorks|OKI_Embedded|oki_C5500|Xerox WorkCenter7232|Dell3130Cn|A80Color Laser Printer|Canon ir3025|Canon irc, 1
+72, Sharp_Embedded|Sharp_ARM280U, 1
+75, Spacesaver_Powerlink_Embedded, 1
+100, Allied_Telesyn_AR405, 1
+122, Cable Modem Router(Scientific Atlanta), 1

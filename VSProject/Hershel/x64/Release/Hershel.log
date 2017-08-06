@@ -1,0 +1,21 @@
+﻿  hershel.cpp
+hershel.cpp(87): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+hershel.cpp(88): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+hershel.cpp(96): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+hershel.cpp(114): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+hershel.cpp(149): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+hershel.cpp(292): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  hershel.cpp(292): note: consider using '%zd' in the format string
+hershel.cpp(317): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+hershel.cpp(355): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  hershel.cpp(355): note: consider using '%zd' in the format string
+hershel.cpp(368): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+hershel.cpp(458): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+hershel.cpp(522): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+hershel.cpp(533): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  99 of 1071 functions ( 9.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Hershel.vcxproj -> C:\Users\zain\Documents\Visual Studio 2015\Projects\Hershel\x64\Release\Hershel.exe
