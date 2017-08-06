@@ -20,7 +20,7 @@ Z. Shamsi, A. Nandwani, D. Leonard and D. Loguinov, "Hershel: Single-Packet OS F
 		keywords = {internet measurement, os classification, device fingerprinting},
  	} 
 
-[ACM Portal](http://dl.acm.org/citation.cfm?id=2591972&CFID=966156579&CFTOKEN=39308219) 
+[ACM Portal](http://dl.acm.org/citation.cfm?id=2591972) 
 
 [Direct Paper Link](http://irl.cs.tamu.edu/people/zain/papers/sigmetrics2014.pdf)
 
