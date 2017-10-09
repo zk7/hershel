@@ -8,7 +8,8 @@ In addition to adding new features, Hershel also allows standard header fields (
 
 Hershel is written in C++.
 
-The project contains two versions of the algorithm: a multi-platform single-threaded version which should compile on most systems. It includes the Hershel 116 OS database and some test signatures.
+The project contains two versions of the algorithm: a multi-platform single-threaded version which should compile on most systems. It includes the Hershel 116 OS database and some test signatures.  
+**NOTE:** This version of Hershel is only the classification algorithm that reads from an already generated observations file. It does not contain a "live" tool to probe and fingerprint systems. For a live tool, please see [Hershel+](https://github.com/zk7/hershelplus).
 
 The Visual Studio project files use the Windows library for multi-threading and hence compiles in Win32/64. It also includes the Hershel database and example signatures. This is likely the version you want to run if you have a large dataset.
 
